@@ -1,0 +1,21 @@
+# Delphi compilde output
+*.exe
+*.dll
+*.dcu
+*.map
+*.identcache
+*.local
+
+# Delphi temporary files
+__history/
+*.~*
+*.tmp
+
+# Build folders
+Win64/
+Debug/
+Release/
+
+# IDE/user-specific files
+*.dsk
+*.tvsconfig
